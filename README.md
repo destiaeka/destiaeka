@@ -13,7 +13,6 @@
 - 🌱 Currently learning **Linux Server**, **Docker**, and **Kubernetes (K3s)**
 - ⚙️ Passionate about **System Administration**, **DevOps**, and **Infrastructure Management**
 - 🚀 Interested in **automation**, **monitoring**, and **scalable deployment**
-- 💡 Motto: _“Keep learning, keep building, and stay curious.”_
 
 ---
 
