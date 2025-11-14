@@ -43,18 +43,11 @@
   <img src="https://img.shields.io/badge/Load%20Balancing-2E8B57?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=destiaeka&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=destiaeka&layout=compact&theme=tokyonight" />
+#### ☁️ Cloud & Platform
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=destiaeka&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
-</p>
 
 ---
 
